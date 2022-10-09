@@ -6,10 +6,9 @@ Make sure you have npm installed
 2) Run 
 
 Run 
- "scripts": {
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js",
-    "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
+npm run client // for frontend 
+npm run start // for backend
+
+npm run dev // for concurrently running both 
     
     
