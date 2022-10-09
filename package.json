@@ -1,7 +1,7 @@
 {
-  "name": "mern-tutorial",
+  "name": "task-setter",
   "version": "1.0.0",
-  "description": "Goalsetter",
+  "description": "Tasksetter",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
